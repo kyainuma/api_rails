@@ -44,3 +44,5 @@ gem 'jbuilder'
 gem 'rack-cors'
 gem 'devise', '~> 4.7.3'
 gem 'devise_token_auth'
+
+gem 'activestorage-validator'
